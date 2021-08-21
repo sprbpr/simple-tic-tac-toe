@@ -190,11 +190,10 @@ int main()
     char playerz[2];         // The character of each player.
     char command;            // Input command.
 
+again:
     // No one has won yet, so initialize the array with false values.
     players[0] = false;
     players[1] = false;
-
-again:
     // Cleaning the board.
     clean_board(board_matrix);
     // Requesting for the input command from the user.
