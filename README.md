@@ -3,8 +3,8 @@
 **Tic-tac-toe**  ([American English](https://en.wikipedia.org/wiki/American_English "American English")),  **noughts and crosses**  ([Commonwealth English](https://en.wikipedia.org/wiki/Commonwealth_English "Commonwealth English")  and  [British English](https://en.wikipedia.org/wiki/British_English "British English")), or  **Xs and Os**/“X’y O’sies” (Ireland), is a  [paper-and-pencil game](https://en.wikipedia.org/wiki/Paper-and-pencil_game "Paper-and-pencil game")  for two players,  _X_  and  _O_, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner. It is a  [solved game](https://en.wikipedia.org/wiki/Solved_game "Solved game")  with a forced draw assuming  [best play](https://en.wikipedia.org/wiki/Best_response "Best response")  from both players.
 
 <div align="center">
-  <img src="docs/play.gif" width="430" style="border:0px;margin:5px;" />
-  <img src="docs/records.gif" width="430" style="border:0px;margin:5px;"/>
+  <img src="docs/play.gif" width="375" style="border:0px;margin:5px;" />
+  <img src="docs/records.gif" width="375" style="border:0px;margin:5px;"/>
 </div>
 
 ## Table of Content
